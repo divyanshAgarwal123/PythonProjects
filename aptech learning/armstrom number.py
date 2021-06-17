@@ -1,0 +1,1 @@
+x=int(input("please enter a number"))num=xsum=0a=0while(x>0):    a=x%10    sum=sum+(a**3)    x=x//10print(sum)print(num)if(num==sum):    print("it is a armstrom number")else:    print("it is not a armstrom number")

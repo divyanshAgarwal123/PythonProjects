@@ -1,0 +1,6 @@
+x=('p','a','c','f','d','j')
+print(x[-1])
+print(x[-6])
+print('a' in x)
+print('z' in x)
+print('b' not in x)
